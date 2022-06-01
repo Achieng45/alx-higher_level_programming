@@ -1,2 +1,2 @@
 #!/bin/bash
-python -c "$PYCODE" echo -e "\n"
+echo -e 'python -c "$PYCODE" \n'
